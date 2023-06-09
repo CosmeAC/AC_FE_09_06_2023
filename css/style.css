@@ -1,0 +1,33 @@
+button{
+    width: 200px;
+    height: 200px;
+    border-radius: 1px black solid;
+    color: darkgray;
+}
+#juego{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    display: none;
+}
+#contJuego{
+    height: 700px;
+    width: 700px;
+    text-align: center;
+    justify-content: center;
+}
+#enviar{
+    justify-content: right;
+    text-align: right;
+}
+#contFormulario{
+    width:240px ;
+    text-align: right;    
+}
+.formulario{
+    justify-content: left;
+}
+h1{
+    text-align: left;
+}
